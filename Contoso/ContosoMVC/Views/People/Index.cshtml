@@ -1,0 +1,22 @@
+﻿@model List<Contoso.Models.People>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>People</h2>
+
+<h2>Total Departments:@ViewBag.PeopleCount</h2>
+<table class="table">
+    <tr>
+        <td>Id</td>
+        <td>FirstName</td>
+
+    </tr>
+    @foreach (var people in Model)
+    {
+        <tr>
+            <td>@people.Id</td>
+            <td>@people.FirstName</td>
+        </tr>
+    }
+</table>
+

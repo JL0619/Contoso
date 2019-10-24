@@ -1,0 +1,21 @@
+﻿@model List<Contoso.Models.Courses>
+@{
+    ViewBag.Title = "Index";
+}
+
+    <table class="table">
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+
+        </tr>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.Id</td>
+                <td>@course.Title</td>
+     
+            </tr>
+        }
+    </table>
+

@@ -1,0 +1,17 @@
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\Contoso.Servers.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\Contoso.Servers.pdb
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\Contoso.Data.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\Contoso.Helpers.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\Contoso.Models.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\Contoso.Data.pdb
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\Contoso.Helpers.pdb
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\Contoso.Models.pdb
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\obj\Debug\Contoso.Servers.csprojAssemblyReference.cache
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\obj\Debug\Contoso.Servers.csproj.CoreCompileInputs.cache
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\obj\Debug\Contoso.Servers.csproj.CopyComplete
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\obj\Debug\Contoso.Servers.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\obj\Debug\Contoso.Servers.pdb
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\Contoso.Data.dll.config
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\Contoso.Models.dll.config
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\EntityFramework.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Servers\bin\Debug\EntityFramework.xml

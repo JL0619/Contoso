@@ -1,0 +1,12 @@
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\bin\Debug\Contoso.Models.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\bin\Debug\Contoso.Models.pdb
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\obj\Debug\Contoso.Models.csprojAssemblyReference.cache
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\obj\Debug\Contoso.Models.csproj.CoreCompileInputs.cache
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\obj\Debug\Contoso.Models.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\obj\Debug\Contoso.Models.pdb
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\bin\Debug\Contoso.Models.dll.config
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\bin\Debug\EntityFramework.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\bin\Debug\EntityFramework.xml
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Models\obj\Debug\Contoso.Models.csproj.CopyComplete

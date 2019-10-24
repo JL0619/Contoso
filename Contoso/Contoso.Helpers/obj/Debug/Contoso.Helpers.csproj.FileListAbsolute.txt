@@ -1,0 +1,6 @@
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Helpers\bin\Debug\Contoso.Helpers.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Helpers\bin\Debug\Contoso.Helpers.pdb
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Helpers\obj\Debug\Contoso.Helpers.csprojAssemblyReference.cache
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Helpers\obj\Debug\Contoso.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Helpers\obj\Debug\Contoso.Helpers.dll
+C:\Users\liangsimin\source\repos\Contoso\Contoso.Helpers\obj\Debug\Contoso.Helpers.pdb

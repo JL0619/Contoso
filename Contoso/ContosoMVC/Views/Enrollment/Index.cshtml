@@ -1,0 +1,23 @@
+﻿@model List<Contoso.Models.Enrollments>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Enrollments</h2>
+
+<h2>Total Departments:@ViewBag.EnrollmentsCount</h2>
+<table class="table">
+    <tr>
+        <td>Id</td>
+        <td>Grade</td>
+
+    </tr>
+    @foreach (var enrollment in Model)
+    {
+        <tr>
+            <td>@enrollment.Id</td>
+            <td>@enrollment.Grade</td>
+        </tr>
+    }
+</table>
+
